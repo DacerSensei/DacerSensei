@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dave Orijuela</h1>
 <h3 align="center">A passionate programmer from the Philippines.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dacersensei&label=Profile%20views&color=0e75b6&style=flat" alt="dacersensei" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dacersensei&label=Profile%20views&color=0e75b6&style=flat" alt="dacersensei" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
