@@ -2,27 +2,19 @@
 <h1 align="center">Hi 👋, I'm Dave Orijuela</h1>
 <h3 align="center">A passionate programmer from the Philippines.</h3>
 
+<!-- Social Media Links -->
+<div align="center">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo" />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo" />
+</div>
 <!-- Visitor Badge -->
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dacersensei.dacersensei&right_color=rebeccapurple&left_text=Visitors" />
 </div>
 
-<!-- Connect with me -->
-<h5 align="left">Connect with me</h5>
-
-<!-- Social Media Links -->
-<div align="left">
-  <a href="https://stackoverflow.com/users/17238931" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo" />
-  </a>
-  <a href="https://facebbook.com/dacerxd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo" />
-  </a>
-</div>
 
 <!-- Programming Languages -->
 <h5 align="left">Programming Languages</h5>
-<br clear="both">
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="25" alt="csharp logo" />
   <img width="5" />
@@ -37,7 +29,6 @@
 
 <!-- Framework / Platforms -->
 <h5 align="left">Framework / Platforms</h5>
-<br clear="both">
 <div align="left">
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="25" alt="android logo" />
   <img width="5" />
