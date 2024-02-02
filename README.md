@@ -3,17 +3,14 @@
 <h3 align="center">A passionate programmer from the Philippines.</h3>
 
 <!-- Visitor Badge -->
-<br clear="both">
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dacersensei.dacersensei&right_color=rebeccapurple&left_text=Visitors" />
 </div>
 
 <!-- Connect with me -->
-<br clear="both">
 <h5 align="left">Connect with me</h5>
 
 <!-- Social Media Links -->
-<br clear="both">
 <div align="left">
   <a href="https://stackoverflow.com/users/17238931" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo" />
@@ -24,7 +21,6 @@
 </div>
 
 <!-- Programming Languages -->
-<br clear="both">
 <h5 align="left">Programming Languages</h5>
 <br clear="both">
 <div align="left">
@@ -40,7 +36,6 @@
 </div>
 
 <!-- Framework / Platforms -->
-<br clear="both">
 <h5 align="left">Framework / Platforms</h5>
 <br clear="both">
 <div align="left">
@@ -58,9 +53,7 @@
 </div>
 
 <!-- Web application -->
-<br clear="both">
 <h5 align="left">Web Application</h5>
-<br clear="both">
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="25" alt="html5 logo" />
   <img width="5" />
@@ -70,9 +63,7 @@
 </div>
 
 <!-- Database -->
-<br clear="both">
 <h5 align="left">Database</h5>
-<br clear="both">
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="25" alt="mysql logo" />
   <img width="5" />
@@ -82,7 +73,6 @@
 </div>
 
 <!-- GitHub Stats -->
-<br clear="both">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dacersensei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
   <br>
@@ -90,7 +80,6 @@
 </div>
 
 <!-- Activity Graph -->
-<br clear="both">
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dacersensei&radius=12&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph" />
 </div>
