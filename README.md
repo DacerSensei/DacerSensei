@@ -28,7 +28,7 @@
     <img src="https://skillicons.dev/icons?i=java" height="25" alt="java logo" />
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=php" height="25" alt="php logo" />
-    <h5>Programming Languages</h5>
+    <h5>Frameworks / Platforms</h5>
     <img src="https://cdn.simpleicons.org/android/3DDC84" height="25" alt="android logo" />
     <img width="5" />
     <img src="https://cdn.simpleicons.org/xamarin/3498DB" height="25" alt="xamarin logo" />
