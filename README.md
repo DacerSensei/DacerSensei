@@ -1,5 +1,6 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Dave Orijuela</h1>
-<h3 align="center">As a recent Information Technology graduate with a passion for innovation, I am dedicated to leveraging my technical skills and creative problem-solving abilities to contribute meaningfully in the tech industry. With a foundation in C#, .NET, and Xamarin, I specialize in crafting cross-platform solutions for web and mobile applications.</h3>
+<h3 align="center">A passionate programmer from the Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dacersensei&label=Profile%20views&color=0e75b6&style=flat" alt="dacersensei" /> </p>
 
