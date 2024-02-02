@@ -56,8 +56,7 @@
     <img src="https://skillicons.dev/icons?i=mongodb" height="25" alt="mongodb logo" />
 </div>
 
-
-
+<br clear="both" />
 <!-- GitHub Stats -->
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dacersensei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&border=2&border_color=1f6feb"
