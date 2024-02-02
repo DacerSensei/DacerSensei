@@ -1,4 +1,5 @@
 <!-- Introduction -->
+<h1 align="center">Hi 👋, I'm Dave Orijuela</h1>
 <h3 align="center">A passionate programmer from the Philippines.</h3>
 
 <!-- Visitor Badge -->
