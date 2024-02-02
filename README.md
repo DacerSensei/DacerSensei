@@ -1,27 +1,95 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
-<h1 align="center">Hi 👋, I'm Dave Orijuela</h1>
+<!-- Introduction -->
 <h3 align="center">A passionate programmer from the Philippines.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dacersensei&label=Profile%20views&color=0e75b6&style=flat" alt="dacersensei" /> </p>
+<!-- Visitor Badge -->
+<br clear="both">
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dacersensei.dacersensei&right_color=rebeccapurple&left_text=Visitors" />
+</div>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://stackoverflow.com/users/17238931" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17238931" height="30" width="40" /></a>
-<a href="https://fb.com/dacerxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dacerxd" height="30" width="40" /></a>
-<a href="https://instagram.com/daveorijuela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daveorijuela" height="30" width="40" /></a>
-</p>
+<!-- Connect with me -->
+<br clear="both">
+<h5 align="left">Connect with me</h5>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+<!-- Social Media Links -->
+<br clear="both">
+<div align="left">
+  <a href="https://stackoverflow.com/users/17238931" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo" />
+  </a>
+  <a href="https://facebbook.com/dacerxd" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo" />
+  </a>
+</div>
 
-<p align="center">
-<img style="width: 25rem;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dacersensei&show_icons=true&locale=en&layout=compact&theme=react" alt="dacersensei" />
-</p>
+<!-- Programming Languages -->
+<br clear="both">
+<h5 align="left">Programming Languages</h5>
+<br clear="both">
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="25" alt="csharp logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="25" alt="cplusplus logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=js" height="25" alt="javascript logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=java" height="25" alt="java logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=php" height="25" alt="php logo" />
+</div>
 
-<p align="center">
-  <img style="width: 30rem;" align="center" src="https://github-readme-stats.vercel.app/api?username=dacersensei&show_icons=true&locale=en&theme=react" alt="dacersensei" />
-</p>
+<!-- Framework / Platforms -->
+<br clear="both">
+<h5 align="left">Framework / Platforms</h5>
+<br clear="both">
+<div align="left">
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="25" alt="android logo" />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/xamarin/3498DB" height="25" alt="xamarin logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="25" alt="flutter logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="25" alt="dot-net logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="25" alt="arduino logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="25" alt="androidstudio logo" />
+</div>
 
-<p align="center">
-  <img style="width: 30rem;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dacersensei&theme=react" alt="dacersensei" />
-</p>
+<!-- Web application -->
+<br clear="both">
+<h5 align="left">Web Application</h5>
+<br clear="both">
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="25" alt="html5 logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=css" height="25" alt="css3 logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="25" alt="bootstrap logo" />
+</div>
+
+<!-- Database -->
+<br clear="both">
+<h5 align="left">Database</h5>
+<br clear="both">
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="25" alt="mysql logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="25" alt="firebase logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="25" alt="mongodb logo" />
+</div>
+
+<!-- GitHub Stats -->
+<br clear="both">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dacersensei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dacersensei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph" />
+</div>
+
+<!-- Activity Graph -->
+<br clear="both">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dacersensei&radius=12&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph" />
+</div>
