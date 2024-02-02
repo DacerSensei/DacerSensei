@@ -63,6 +63,9 @@
         height="150" alt="stats graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dacersensei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2"
         height="150" alt="languages graph" />
+    <br>
+    <img src="https://streak-stats.demolab.com?user=dacersensei&amp;locale=en&amp;mode=daily&amp;theme=github_dark&amp;hide_border=false&amp;order=3" height="150" alt="streak graph" />
+
 </div>
 
 <!-- Activity Graph -->
