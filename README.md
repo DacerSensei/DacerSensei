@@ -31,8 +31,6 @@
     <h5>Frameworks / Platforms</h5>
     <img src="https://cdn.simpleicons.org/android/3DDC84" height="25" alt="android logo" />
     <img width="5" />
-    <img src="https://cdn.simpleicons.org/xamarin/3498DB" height="25" alt="xamarin logo" />
-    <img width="5" />
     <img src="https://skillicons.dev/icons?i=flutter" height="25" alt="flutter logo" />
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=dotnet" height="25" alt="dot-net logo" />
